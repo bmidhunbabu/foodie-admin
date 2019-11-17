@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Foodie Admin</string>
+    <string name="title_activity_main2">Home</string>
+    <string name="title_activity_food">Food Items</string>
+    <string name="title_activity_category">Categories</string>
+    <string name="title_activity_category_form">Add Category</string>
+    <string name="title_activity_add_food">Add Food Item</string>
+    <string name="title_activity_daily_menu">Menu</string>
+</resources>
